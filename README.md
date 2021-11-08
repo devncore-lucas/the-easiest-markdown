@@ -474,6 +474,7 @@ And there are some **size options**.
 </details>
 
 <br />
+<br />
 
 ## 99. ETC
 ### 99.1 Emoji
